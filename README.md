@@ -4,7 +4,7 @@ The Bus Pass Management System is a web-based application developed to streamlin
 
 ## Prerequisites
 
-Before you begin, ensure you have the following dependencies installed on your system:
+Before you execute, ensure you have the following dependencies installed on your system:
 
 - [Node.js](https://nodejs.org/)
 - [MySQL](https://www.mysql.com/)
@@ -15,5 +15,7 @@ Before you begin, ensure you have the following dependencies installed on your s
 
    ```
    git clone https://github.com/Soundharya2004/Bus-Pass-Management.git
+
    ```
-   
+2. **Setting up the database**
+   Open the mysql workbench or in the command prompt and construct the required tables for the execution . Refer `db.schema` file for the table details and the schema.
