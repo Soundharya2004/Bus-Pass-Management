@@ -54,5 +54,11 @@ Before you execute, ensure you have the following dependencies installed on your
 5. **Run the application**
 
       Start the frontend `home.html` by opening that in live server or manually in the browser . And start the server by executing this command
-      ``` node server.js ```
+      ```
+         node server.js
+      ```
+   
       `Note: Run the server command in server directory`
+   
+   ## Happy working
+      Now the application has been started , so enjoy by utilizing the management application.
