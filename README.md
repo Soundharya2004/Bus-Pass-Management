@@ -19,7 +19,7 @@ Before you execute, ensure you have the following dependencies installed on your
    ```
 2. **Setting up the database**
    
-   Open the mysql workbench or in the command prompt and construct the required tables for the execution . Refer `db.schema` file for the table details and the schema.
+   Open the mysql workbench or in the command prompt and construct the required tables for the execution . Refer `db.sql` file for the table details and the schema.
 
    After setting up the databases , make sure all the tables have been created and along with the parameters.
 
