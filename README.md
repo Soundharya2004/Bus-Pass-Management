@@ -51,4 +51,8 @@ Before you execute, ensure you have the following dependencies installed on your
       ```
          npm install mysql2 body-parser express bcrypt
       ```
+5. **Run the application**
 
+      Start the frontend `home.html` by opening that in live server or manually in the browser . And start the server by executing this command
+      ``` node server.js ```
+      `**Note: Run the server command in server directory**`
