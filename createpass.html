@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./create-pass.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="create-pass">
+      <div class="create-pass-child"></div>
+      <form action="http://localhost:3000/createpass" method="post">
+      <input
+      name="pass_id"
+        class="create-pass-item"
+        id="pass_id"
+        placeholder="Pass ID"
+        type="text"
+      />
+
+      <input
+        name="user_id"
+        class="create-pass-inner"
+        id="user_id"
+        placeholder="User Id"
+        type="text"
+      />
+
+      <input
+      name="location"
+        class="create-pass-child1"
+        id="location"
+        placeholder="Location"
+        type="text"
+      />
+
+      <input
+        name="duration"
+        class="create-pass-child2"
+        id="duration"
+        placeholder="Duration"
+        type="date"
+      />
+
+      <b class="create-pass1">Create Pass</b>
+      <a class="dashboard" href="http://localhost:3000/dashboard">Dashboard</a>
+      <img class="back-2-icon1" alt="" src="./public/back-1@2x.png" />
+
+      
+      <input class="create-pass-child3" type="submit" value="Create">
+      </form>
+      <img
+        class="image-5-icon1"
+        alt="createpass"
+        id="createpass-img"
+        src="./public/createpass1@2x.png"
+      />
+    </div>
+  </body>
+</html>

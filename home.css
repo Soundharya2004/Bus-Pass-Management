@@ -1,0 +1,303 @@
+.bus-pass {
+  position: absolute;
+  top: 58px;
+  left: 59px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.admin,
+.contact,
+.services {
+  text-decoration: none;
+  position: absolute;
+  top: 69px;
+  font-weight: 300;
+  color: var(--color-black);
+  text-align: left;
+}
+.contact {
+  left: 1057px;
+  cursor: pointer;
+}
+.admin,
+.services {
+  left: 912px;
+}
+.admin {
+  left: 1202px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 202px;
+  left: 857px;
+  width: 400px;
+  height: 383.7px;
+  object-fit: cover;
+}
+.simplify-your-travel {
+  margin: 0;
+}
+.us1 {
+  color: var(--color-fuchsia);
+}
+.span {
+  color: var(--color-mediumvioletred);
+}
+.simplify-your-travel-container {
+  position: absolute;
+  top: 290px;
+  left: 122px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  text-align: left;
+  color: var(--color-black);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-mini) 0 var(--br-mini);
+  background-color: var(--color-orchid-100);
+  width: 259px;
+  height: 58px;
+}
+.get-started {
+  position: absolute;
+  top: 8px;
+  left: 42px;
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 492px;
+  left: 115px;
+  width: 259px;
+  height: 58px;
+}
+.home-child,
+.home-item {
+  position: absolute;
+  top: 500px;
+  left: 795px;
+  width: 62.1px;
+  height: 35px;
+}
+.home-item {
+  top: 230px;
+  left: 59px;
+  width: 72px;
+  height: 45px;
+}
+.all-rights-reserved {
+  position: absolute;
+  top: 3365px;
+  left: 498px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  width: 272px;
+}
+.services-we-provide {
+  position: absolute;
+  top: 769px;
+  left: 65px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+}
+.home-inner {
+  position: absolute;
+  top: 829px;
+  left: 38px;
+  border-radius: 0 var(--br-3xs) 0 var(--br-3xs);
+  background-color: #c15ac3;
+  width: 464px;
+  height: 12px;
+}
+.always-hours-service-support-t-icon {
+  position: absolute;
+  top: 925px;
+  left: 421px;
+  width: 60px;
+  height: 61.9px;
+  object-fit: cover;
+}
+.customer-support,
+.register-pass,
+.renew {
+  position: absolute;
+  top: 934px;
+  left: 231px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-orchid-100);
+  display: inline-block;
+  width: 1004px;
+  height: 86px;
+}
+.register-pass,
+.renew {
+  top: 1065px;
+  left: 303px;
+  width: 709px;
+  height: 89px;
+}
+.renew {
+  top: 1186px;
+  left: 495px;
+  width: 225px;
+}
+.account-add-avatar-human-man-i-icon,
+.renewable-1-icon {
+  position: absolute;
+  top: 1063px;
+  left: 421px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.renewable-1-icon {
+  top: 1189px;
+  left: 423px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1437px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1336px;
+  height: 285px;
+}
+.bus-pass1 {
+  position: absolute;
+  top: 1447px;
+  left: -36px;
+  font-size: 48px;
+  display: inline-block;
+  width: 353px;
+}
+.follow-us-on,
+.quick-links {
+  position: absolute;
+  top: 1526px;
+  left: 10px;
+  font-weight: 500;
+  display: inline-block;
+  width: 164px;
+}
+.follow-us-on {
+  top: 1518px;
+  left: 544px;
+}
+.contact1,
+.home1,
+.services1 {
+  text-decoration: none;
+  position: absolute;
+  top: 1570px;
+  left: 23px;
+  font-size: var(--font-size-lg);
+  color: inherit;
+  display: inline-block;
+  width: 89px;
+}
+.contact1,
+.services1 {
+  left: 123px;
+  font-weight: 500;
+  width: 126px;
+}
+.contact1 {
+  top: 1571px;
+  left: 244px;
+  width: 121px;
+}
+.icon-facebook-icon,
+.icon-instagram-icon {
+  position: absolute;
+  height: 1.74%;
+  width: 2.25%;
+  top: 91.75%;
+  right: 54.49%;
+  bottom: 6.5%;
+  left: 43.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook-icon {
+  right: 50.45%;
+  left: 47.31%;
+}
+.home-child1 {
+  position: absolute;
+  top: 1461px;
+  left: 917px;
+  border-radius: 16px;
+  background-color: #242424;
+  width: 342px;
+  height: 238px;
+}
+.home-child2,
+.home-child3,
+.home-child4,
+.rectangle-button {
+  position: absolute;
+  top: 1525px;
+  left: 935px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 139px;
+  height: 29px;
+}
+.home-child3,
+.home-child4,
+.rectangle-button {
+  top: 1560px;
+  width: 293px;
+  height: 80px;
+}
+.home-child4,
+.rectangle-button {
+  top: 1525px;
+  left: 1089px;
+  width: 139px;
+  height: 29px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  top: 1658px;
+  left: 935px;
+  width: 77px;
+}
+.get-in-touch {
+  position: absolute;
+  top: 1461px;
+  left: 895px;
+  font-size: 32px;
+  display: inline-block;
+  width: 278px;
+  height: 26px;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1722px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

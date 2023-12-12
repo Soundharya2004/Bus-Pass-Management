@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sign-up">
+      <a class="go-back1" href="./home.html">Go back</a>
+      <img class="back-1-icon1" alt="" src="./public/back-1@2x.png" />
+
+      <img
+        class="image-2-icon"
+        alt="login-img"
+        id="login-img"
+        src="./public/login image@2x.png"
+      />
+
+      <b class="welcome-back">Welcome back !</b>
+      <div class="dont-have-one-container">
+        <span>Don’t have one ? </span>
+        <a href="./signup.html" ><span class="sign-up1">Sign up</span></a>
+        
+      </div>
+
+      <form action="http://localhost:3000/login" method="post">
+      <div class="sign-up-child"></div>
+      <input
+      name="user_id"
+        class="sign-up-item"
+        id="user_id"
+        placeholder="User ID"
+        type="text"
+      />
+      <input
+      name="name"
+        class="sign-up-item"
+        id="name"
+        placeholder="Name"
+        type="text"
+        style="margin-top: 80px;"
+      />
+
+     
+      <input
+        name="password"
+        class="sign-up-inner"
+        id="password"
+        placeholder="Password"
+        type="password"
+        style="margin-top: 75px;"
+      />
+
+      <input class="sign-up-child1" type="submit" value="Login"  style="margin-top: 80px;"/>
+    </form>
+    </div>
+
+  </body>
+</html>

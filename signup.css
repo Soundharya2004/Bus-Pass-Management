@@ -1,0 +1,129 @@
+.resume-amico-2-icon {
+  position: absolute;
+  top: 58px;
+  left: 123px;
+  border-radius: 18px;
+  width: 400px;
+  height: 371.7px;
+  object-fit: cover;
+}
+.us {
+  color: var(--color-orchid-100);
+}
+.start-your-journey-container {
+  margin: 0;
+  position: absolute;
+  top: 457px;
+  left: 159px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.create-your-account {
+  position: absolute;
+  top: 48px;
+  left: 859px;
+  font-size: var(--font-size-11xl);
+}
+.already-have-one-container {
+  text-decoration: none;
+  position: absolute;
+  top: 93px;
+  left: 887px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 440px;
+  height: 30px;
+  color: inherit;
+}
+.login-child {
+  position: absolute;
+  top: 146px;
+  left: 836px;
+  border-radius: 36px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-orchid-100);
+  box-sizing: border-box;
+  width: 397px;
+  height: 381px;
+  padding-left: 10px;
+}
+.login-item {
+  position: absolute;
+  top: 190px;
+  border-radius: var(--br-5xs);
+  padding-left: 10px;
+}
+.login-inner,
+.login-item,
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-orchid-300);
+  left: 859px;
+  width: 347px;
+  height: 53.3px;
+  
+}
+.login-inner {
+  position: absolute;
+  top: 267.6px;
+  padding-left: 10px;
+  border-radius: var(--br-5xs);
+}
+.rectangle-input {
+  top: 345.1px;
+  padding-left: 10px;
+}
+.login-child1,
+.login-child2,
+.rectangle-input {
+  position: absolute;
+  border-radius: var(--br-5xs);
+}
+.login-child1 {
+  border: 0;
+  background-color: var(--color-orchid-300);
+  top: 422.7px;
+  left: 859px;
+  width: 347px;
+  height: 53.3px;
+  padding-left: 10px;
+}
+.login-child2 {
+  border: 1px solid #9747ff;
+  background-color: transparent;
+  top: 551px;
+  left: 999px;
+  box-sizing: border-box;
+  width: 108px;
+  height: 29px;
+}
+.go-back {
+  text-decoration: none;
+  position: absolute;
+  top: 25px;
+  left: 60px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  color: inherit;
+}
+.back-1-icon {
+  position: absolute;
+  top: 26px;
+  left: 40px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.login {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 680px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+

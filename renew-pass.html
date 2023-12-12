@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./renew-pass.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="renew-pass">
+      <div class="renew-pass-child"></div>
+      <form action="http://localhost:3000/renew" method="post">
+      <input
+      name="pass_id"
+        class="renew-pass-item"
+        id="pass_id"
+        placeholder="Pass ID"
+        type="text"
+      />
+
+      
+      <input
+      name="duration"
+        class="renew-pass-child1"
+        id="duration"
+        placeholder="Duration"
+        type="date"
+      />
+
+      
+      <input type="submit" class="renew-pass-child2" value="Renew">
+      </form>
+
+      <b class="renew-pass1">Renew Pass</b>
+      <a class="dashboard" href="http://localhost:3000/dashboard">Dashboard</a>
+      <img class="back-2-icon" alt="" src="./public/back-1@2x.png" />
+
+      <img
+        class="image-5-icon"
+        alt="createpass"
+        id="createpass-img"
+        src="./public/createpass@2x.png"
+      />
+
+      
+    </div>
+  </body>
+</html>
